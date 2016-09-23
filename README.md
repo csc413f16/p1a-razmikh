@@ -1,8 +1,12 @@
-Name:
+Name: Razmik Hakobyan
 
-Compilation and Run Successful:
+Compilation and Run Successful: Yes
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: Yes
+
+The unit test ran successfully with no errors or problems. I had some initial problems with
+the MainActivity. The new version of android studio messed up the settings that I had
+initially, but, I got the activity to compile and run successfully.
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
